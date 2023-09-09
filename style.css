@@ -1,0 +1,58 @@
+.mtmain {
+  margin-top: 90px;
+}
+.fs12 {
+  font-size: 12px;
+}
+.fs14 {
+  font-size: 14px;
+}
+.fs16 {
+  font-size: 16px;
+}
+.adc {
+  text-decoration: none;
+}
+a.alink:link {
+  text-decoration: none;
+  color: grey;
+}
+a.alink:visited {
+  text-decoration: none;
+  color: grey;
+}
+a.alink:hover {
+  text-decoration: none;
+  color: grey;
+}
+.rlt {
+  position: relative;
+}
+.abs {
+  position: absolute;
+}
+.imgpos {
+  width: 80px;
+  height: 80px;
+  left: 34%;
+  top: 17%;
+  border-radius: 50%;
+  border-color: white;
+  border-style: solid;
+}
+.imgpro {
+  width: 80px;
+  height: 80px;
+  border-radius: 50%;
+}
+.imgprof {
+  width: 80px;
+  height: 80px;
+  border-radius: 50%;
+  margin: 6px;
+}
+.imgprof1 {
+  width: 80px;
+  height: 80px;
+  border-radius: 50%;
+}
